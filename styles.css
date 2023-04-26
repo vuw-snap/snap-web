@@ -1,47 +1,35 @@
 /* css styles */
+/* top right bottom left */
 
-.snap_header_row {
+.quarto-title-block .quarto-title-banner {
+  background-image: url(images/small_logo.png);
+  background-size: 200px;
+  background-position: left;
+  background-repeat: no-repeat;
+  padding-left: 1px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-origin: content-box;
-  background-color: #28553A;   
-  color: white;
+  text-align: center;
+  margin-top: 0px;
+  margin-block-end: -17px;
+#  border: solid 2px #FF9300;
+}
+
+.picture {
+  image-align: center;
   padding: 0px;
   margin: 0px;
-#  border: solid 5px #FF9300;
-  display: flex;
-  overflow: hidden;
-  float: left;
-  width: 100%;
-  position: relative;
 }
 
-.header_left_container {
-  min-height: 100%;
-  width: 300px;
-  padding: 20px 0px 0px 0px;
-#  border: solid 1px #f00;
-}
-
-.header_right_container {
-  min-height: 100%;
-  width: 100%;
+.row2 {
   text-align: center;
-  padding: 10px 0px 0px 0px;
-#  border: solid 1px #f00;
-}
-
-.head_1 {
-  text-align: center;
-  line-height: 1.2;
-  font-weight: bold;
-  font-size: 3em;
-#  border: solid 1px #f00;
-}
-
-.head_2 {
-  text-align: center;
-  line-height: 1.0;
-  font-size: 1em;
-#   border: solid 1px #f00;
+#  font-size: 0.8em;
+  font-size: 1.3vw;
+  paddingp: 0px;
+  margin: 0px;
+#  line-height: 1.4;
+#  border: solid 1px #000;
 }
 
 .row {
@@ -53,26 +41,8 @@
   float: left;
   overflow: hidden;
   text-align: center;
+#  font-size:12px;
 #  border: solid 1px #000;
-}
-
-.left_open {
-  min-height: 100%;
-  float:left;
-  text-align: center;
-  padding: 15px 0px 0px 0px;
-  margin-right: 300px;
-  border: solid 1px #f00;
-}
-
-.right_fixed {
-  min-height: 100%;
-  width: 300px;
-  float: right;
-  text-align: center;
-  padding: 15px 0px 0px 0px;
-  margin: 0px 0px 0px 0px;
-  border: solid 1px #f00;
 }
 
 .grid-container {
@@ -84,15 +54,6 @@
   text-align: center;
 }
 
-.make_space_25
-{
-  padding: 25px 0px 0px 0px;
-  margin: 0px;
-  float: left;
-  width: 100%;
-#  border: solid 1px #f00;
-}
-
 .make_space_10
 {
   padding: 10px 0px 0px 0px;
@@ -102,14 +63,6 @@
 #  border: solid 1px #f00;
 }
 
-.make_space_5
-{
-  padding: 5px 0px 0px 0px;
-  margin: 0px;
-  float: left;
-  width: 100%;
-#  border: solid 1px #f00;
-}
 
 
 
