@@ -1,0 +1,24 @@
+---
+title: "SNAP" 
+subtitle: "VUW-hub for Simmulation, Numerics, Analytics and Programming"
+page-layout: full
+title-block-banner: "#28553A"
+title-block-banner-color: white
+
+format: 
+  html:
+    theme: spacelab
+    css: styles.css
+---
+
+::: {.row}
+::: {.grid}
+:::{.g-col-8}
+The 21st century has seen powerful advances in computer hardware and software leading to a rapid increase in the exploitation of computation within the natural sciences, social sciences, and engineering disciplines. Significant advances have brought numerical modelling, data analysis and simulation disciplines to the forefront. There has also been a large ground swell in the use of programming and scripting across all disciplines. SNAP aims to promote these approaches and assist researchers to develop the skills needed to exploit them to their full potential.
+:::
+::: {.g-col-4}
+![ ](images/Bmim_BI4_NCIplot.png){fig-align="center" width="80%"}
+:::
+:::
+:::
+
