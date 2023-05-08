@@ -3,7 +3,10 @@
     "listing": "/blog.html",
     "items": [
       "/posts/post-with-code/index.html",
+      "/posts/april_2023_ligand_docking_code/index.html",
       "/posts/april_2023_hpc_morning_tea/index.html",
+      "/posts/march_2023_snap_coffee/index.html",
+      "/posts/nov_2022_snap_coffee/index.html",
       "/posts/digital_humanities_interview/index.html"
     ]
   }
