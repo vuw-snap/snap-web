@@ -7,6 +7,13 @@
     "text": "About this blog\n\n\n Back to top"
   },
   {
+    "objectID": "posts/dec_2022_antartic_winter_school/index.html",
+    "href": "posts/dec_2022_antartic_winter_school/index.html",
+    "title": "The Antarctic Science Platform Winter School",
+    "section": "",
+    "text": "The Antarctic Science Platform Modelling Hub (located within the Antarctic Research Centre at VUW) held their second annual “Winter School” on 5-6 Sep 2022 in Wellington.\nThe aim of the workshop was to teach foundational numerical and computational skills to students and early career researchers as well as provide the opportunity for established researchers to upskill and diversify their skill-sets.\nThese skills are highly sought-after by the earth and environmental science research community but rarely taught to students in a comprehensive manner.\nThe workshop attracted 23 postgraduate students and researchers working in earth sciences at universities and CRIs around New Zealand. The workshop was taught by the six Modelling Hub post-doctoral fellows, who each drew upon their own unique areas of expertise to design the course material.\nThe two days consisted of a mix of lectures and hands-on tutorials and practical exercises. Coding exercises were taught using python and the nco command line tools. Topics covered included:\n\n\nIntroduction to programming languages and environments\n\n\nClimate model basics and the Coupled Model Intercomparison Project (CMIP6)\n\n\nGetting started with supercomputing (guest lecture from NeSI)\n\n\nAnalysis and plotting of spatial data\n\n\nAnalysis and plotting of timeseries data\n\n\nDocument preparation in LaTeX\n\n\nWork structure and version control\n\n\nBy the end of the two days, participants were able to find and download climate model data of interest, use simple scripts to process, analyse, and plot those data, integrate those outputs into a typeset document, and use version control software to keep track of changes.\nAn example of a figure that the students learned to create is given below.\nFeedback was very positive. Several participants commented that they really enjoyed the hands-on, practical nature of the workshop and that it introduced them to new tools that they could use in their research straight away. As well as enhancing technical capabilities, the workshop provided a great opportunity for everyone to meet other students and post-docs working in Antarctic research in New Zealand.\nThe next workshop is planned for Winter 2023.\n\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
     "objectID": "posts/dec_2022_quantum_chemistry/index.html",
     "href": "posts/dec_2022_quantum_chemistry/index.html",
     "title": "Beginners Introduction to Computational Chemistry",
@@ -95,6 +102,6 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Molecular modelling\n\n\n\n\n\n\nWanting Jiao\n\n\nApr 19, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nHPC Morning Tea\n\n\n\n\n\n\nKonstantina Vasileva\n\n\nApr 17, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nSNAP Coffee\n\n\n\n\n\n\nPatricia Hunt\n\n\nMar 15, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nBeginners Introduction to Computational Chemistry\n\n\n\n\n\n\nPatricia Hunt\n\n\nDec 6, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nSNAP Coffee November\n\n\n\n\n\n\nPatricia Hunt\n\n\nDec 5, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nDigital Humanities Interview\n\n\n\n\n\n\nMatt Plummer\n\n\nApr 13, 2022\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+    "text": "Molecular modelling\n\n\n\n\n\n\nWanting Jiao\n\n\nApr 19, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nHPC Morning Tea\n\n\n\n\n\n\nKonstantina Vasileva\n\n\nApr 17, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nSNAP Coffee\n\n\n\n\n\n\nPatricia Hunt\n\n\nMar 15, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nBeginners Introduction to Computational Chemistry\n\n\n\n\n\n\nPatricia Hunt\n\n\nDec 6, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nSNAP Coffee November\n\n\n\n\n\n\nPatricia Hunt\n\n\nDec 5, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nThe Antarctic Science Platform Winter School\n\n\n\n\n\n\nLiz Keller\n\n\nSep 6, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nDigital Humanities Interview\n\n\n\n\n\n\nMatt Plummer\n\n\nApr 13, 2022\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
   }
 ]
