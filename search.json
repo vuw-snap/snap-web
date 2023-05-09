@@ -7,11 +7,11 @@
     "text": "About this blog\n\n\n Back to top"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "posts/dec_2022_quantum_chemistry/index.html",
+    "href": "posts/dec_2022_quantum_chemistry/index.html",
+    "title": "Beginners Introduction to Computational Chemistry",
     "section": "",
-    "text": "This is a post with executable code.\n\n\n\n Back to top"
+    "text": "An introduction to molecular computational chemistry\n\n\n“Really enjoyed learning about how computational chemistry could benefit my own research (many things I didn’t realise were possible) as well as getting hands on with the software itself.”\n\n\nThis workshop was suitable for those who have never used computational chemistry before as well as those who are beginners and would like to advance their skills. People could find out how computational chemistry could be used within their research project.\nWe used the quantum chemistry code Gaussian/GaussView suite of programs for which the University has a site license.\nThe workshop was highly interactive and hands-on. First we optimised the structure of ammonia, a small but very important molecule. We then interpreted the information from the calculation such as bond distances, partial charges on atoms and visualised the molecular orbitals. Participants even made an animation of one of the vibrations of the molecule, called the umbrella vibration.\n\n\n\n\n\nPeople then chose their own molecule to have a go, optimising the structure. People bumped into a few of the problems that commonly arise with complex molecules and then solved these problems with skilled help on hand. Participants achieved a good structure and could then go on to studying the electronic structure which provides key information on bonding and reactivity.\n\n“Really enjoyed learning about how computational chemistry could benefit my own research (many things I didn’t realise were possible) as well as getting hands on with the software itself.”\n\n\n” Love love love the enthusiasm!”\n\n\n\n\n Back to top"
   },
   {
     "objectID": "posts/march_2023_snap_coffee/index.html",
@@ -95,6 +95,6 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nHarlow Malloc\n\n\nApr 18, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nMolecular modelling\n\n\n\n\n\n\nWanting Jiao\n\n\nApr 17, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nHPC Morning Tea\n\n\n\n\n\n\nKonstantina Vasileva\n\n\nApr 17, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nSNAP Coffee\n\n\n\n\n\n\nPatricia Hunt\n\n\nMar 15, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nSNAP Coffee November\n\n\n\n\n\n\nPatricia Hunt\n\n\nDec 5, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nDigital Humanities Interview\n\n\n\n\n\n\nMatt Plummer\n\n\nApr 13, 2022\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+    "text": "Molecular modelling\n\n\n\n\n\n\nWanting Jiao\n\n\nApr 17, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nHPC Morning Tea\n\n\n\n\n\n\nKonstantina Vasileva\n\n\nApr 17, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nSNAP Coffee\n\n\n\n\n\n\nPatricia Hunt\n\n\nMar 15, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nBeginners Introduction to Computational Chemistry\n\n\n\n\n\n\nPatricia Hunt\n\n\nDec 6, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nSNAP Coffee November\n\n\n\n\n\n\nPatricia Hunt\n\n\nDec 5, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nDigital Humanities Interview\n\n\n\n\n\n\nMatt Plummer\n\n\nApr 13, 2022\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
   }
 ]
